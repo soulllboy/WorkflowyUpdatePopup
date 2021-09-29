@@ -202,11 +202,11 @@ input::placeholder {
   box-sizing: border-box;
 }
 .container_h {
-  diplay: flex;
+  display: flex;
   flex-direction: row;
 }
 .container_v {
-  diplay: flex;
+  display: flex;
   flex-direction: column;
 }
 .c_left {
